@@ -1,0 +1,12 @@
+ItemName_EN = {
+    ItemName_Base.SpiffoPlushieDelivery = "Unopened Makeship Plushie Bag",
+    ItemName_Base.SpiffoPlushieDeliveryBag = "Makeship Plushie Bag",
+
+    ItemName_Base.SpiffoPlushieMakeship = "Spiffo Plushie",
+    ItemName_Base.SpiffoPlushieMakeshipBag = "Spiffo Plushie's Backpack",
+    ItemName_Base.SpiffoPlushieMakeshipWithBag = "Spiffo Plushie With Backpack",
+
+    ItemName_Base.BigSpiffoPlushieMakeship = "Big Spiffo Plushie",
+    ItemName_Base.BigSpiffoPlushieMakeshipBag = "Big Spiffo Plushie's Backpack",
+    ItemName_Base.BigSpiffoPlushieMakeshipWithBag = "Big Spiffo Plushie With Backpack",
+}

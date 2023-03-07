@@ -1,0 +1,94 @@
+module Base {
+    /* Makeship Delivery Bag */
+    item SpiffoPlushieDelivery {
+        DisplayCategory = Container,
+        Weight = 0.4,
+        Type = Normal,
+        DisplayName = SpiffoPlushieDelivery,
+        Icon = SpiffoPlushieDelivery,
+        WorldStaticModel = SpiffoPlushieDelivery,
+        Tooltip = Tooltip_SpiffoPlushieDelivery,
+    }
+
+    item SpiffoPlushieDeliveryBag {
+	    DisplayCategory = Container,
+		WeightReduction = 30,
+		Weight = 0.2,
+		Type = Container,
+		Capacity = 10,
+		DisplayName = SpiffoPlushieDeliveryBag,
+		Icon = SpiffoPlushieDelivery,
+        OpenSound = OpenBag,
+        CloseSound = CloseBag,
+        PutInSound = PutItemInBag,
+		SurvivalGear = TRUE,
+		WorldStaticModel = SpiffoPlushieDelivery,
+    }
+
+
+	/* Regular Sized */
+	item SpiffoPlushieMakeship {
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = SpiffoPlushieMakeship,
+		Icon = SpiffoPlushieMakeship,
+        StaticModel = SpiffoPlushieMakeship,
+		WorldStaticModel = SpiffoPlushieMakeship,
+        Tooltip = Tooltip_SpiffoPlushieMakeship,
+        AttachmentType = SpiffoPlushie,
+	}
+
+	item SpiffoPlushieMakeshipBag {
+		DisplayCategory = Raccoon,
+		Weight = 0.05,
+		Type = Normal,
+		DisplayName = SpiffoPlushieMakeshipBag,
+		Icon = SpiffoPlushieMakeshipBag,
+		WorldStaticModel = SpiffoPlushieMakeshipBag,
+	}
+
+	item SpiffoPlushieMakeshipWithBag {
+		DisplayCategory = Raccoon,
+		Weight = 0.2,
+		Type = Normal,
+		DisplayName = SpiffoPlushieMakeshipWithBag,
+		Icon = SpiffoPlushieMakeshipWithBag,
+        StaticModel = SpiffoPlushieMakeshipWithBag,
+		WorldStaticModel = SpiffoPlushieMakeshipWithBag,
+        Tooltip = Tooltip_SpiffoPlushieMakeship,
+        AttachmentType = SpiffoPlushie,
+	}
+
+    /* Jumbo Sized */
+    item BigSpiffoPlushieMakeship {
+		DisplayCategory = Raccoon,
+		Weight = 5,
+		Type = Normal,
+		DisplayName = BigSpiffoPlushieMakeship,
+		Icon = SpiffoPlushieMakeship,
+        StaticModel = BigSpiffoPlushieMakeship,
+		WorldStaticModel = BigSpiffoPlushieMakeship,
+        AttachmentType = SpiffoPlushie,
+	}
+
+	item BigSpiffoPlushieMakeshipBag {
+		DisplayCategory = Raccoon,
+		Weight = 0.5,
+		Type = Normal,
+		DisplayName = BigSpiffoPlushieMakeshipBag,
+		Icon = SpiffoPlushieMakeshipBag,
+		WorldStaticModel = BigSpiffoPlushieMakeshipBag,
+	}
+
+	item BigSpiffoPlushieMakeshipWithBag {
+		DisplayCategory = Raccoon,
+		Weight = 5,
+		Type = Normal,
+		DisplayName = BigSpiffoPlushieMakeshipWithBag,
+		Icon = SpiffoPlushieMakeshipWithBag,
+        StaticModel = BigSpiffoPlushieMakeshipWithBag,
+		WorldStaticModel = BigSpiffoPlushieMakeshipWithBag,
+        Tooltip = Tooltip_SpiffoPlushieMakeship,
+	}
+}

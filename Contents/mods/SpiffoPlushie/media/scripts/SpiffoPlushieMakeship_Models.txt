@@ -1,0 +1,46 @@
+module Base {
+	model SpiffoPlushieDelivery {
+		mesh = WorldItems/SeedBag,
+		texture = WorldItems/SpiffoPlushieDelivery,
+		scale = 1.0,
+	}
+
+	/* Regular Sized */
+	model SpiffoPlushieMakeship {
+		mesh = WorldItems/SpiffoPlushieMakeship,
+		texture = WorldItems/SpiffoPlushieMakeship,
+		scale = 0.0065,
+	}
+
+	model SpiffoPlushieMakeshipBag {
+		mesh = WorldItems/SpiffoPlushieMakeshipBag,
+		texture = WorldItems/SpiffoPlushieMakeship,
+		scale = 0.0065,
+	}
+
+	model SpiffoPlushieMakeshipWithBag {
+		mesh = WorldItems/SpiffoPlushieMakeshipWithBag,
+		texture = WorldItems/SpiffoPlushieMakeship,
+		scale = 0.0065,
+	}
+
+	/* Jumbo Sized */
+	model BigSpiffoPlushieMakeship {
+		mesh = WorldItems/BigSpiffoPlushieMakeship,
+		texture = WorldItems/SpiffoPlushieMakeship,
+		scale = 0.016,
+	}
+
+	model BigSpiffoPlushieMakeshipBag {
+		mesh = WorldItems/BigSpiffoPlushieMakeshipBag,
+		texture = WorldItems/SpiffoPlushieMakeship,
+		scale = 0.016,
+	}
+
+	model BigSpiffoPlushieMakeshipWithBag {
+		mesh = WorldItems/BigSpiffoPlushieMakeshipWithBag,
+		texture = WorldItems/SpiffoPlushieMakeship,
+		scale = 0.016,
+	}
+
+}

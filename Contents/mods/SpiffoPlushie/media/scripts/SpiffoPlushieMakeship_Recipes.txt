@@ -1,0 +1,40 @@
+module Base {
+    recipe SpiffoPlushieDeliveryOpen {
+        SpiffoPlushieDelivery,
+        Result: SpiffoPlushieMakeship,
+        NeedToBeLearn: false,
+        OnCreate: SpiffoPlushieDeliveryAddBag,
+        Time: 30.0,
+    }
+
+    recipe SpiffoPlushieAddBackpack {
+        SpiffoPlushieMakeship,
+        SpiffoPlushieMakeshipBag,
+        Result: SpiffoPlushieMakeshipWithBag,
+        NeedToBeLearn: false,
+        Time: 30.0,
+    }
+    recipe SpiffoPlushieRemoveBackpack {
+        SpiffoPlushieMakeshipWithBag,
+        Result: SpiffoPlushieMakeship,
+        NeedToBeLearn: false,
+        OnCreate: SpiffoPlushieMakeshipRemoveBackpack,
+        Time: 30.0,
+    }
+
+    recipe SpiffoPlushieAddBackpackBig {
+        BigSpiffoPlushieMakeship,
+        BigSpiffoPlushieMakeshipBag,
+        Result: BigSpiffoPlushieMakeshipWithBag,
+        NeedToBeLearn: false,
+        Time: 30.0,
+    }
+
+    recipe SpiffoPlushieRemoveBackpackBig {
+        BigSpiffoPlushieMakeshipWithBag,
+        Result: BigSpiffoPlushieMakeship,
+        NeedToBeLearn: false,
+        OnCreate: SpiffoPlushieMakeshipRemoveBackpack,
+        Time: 30.0,
+    }
+}

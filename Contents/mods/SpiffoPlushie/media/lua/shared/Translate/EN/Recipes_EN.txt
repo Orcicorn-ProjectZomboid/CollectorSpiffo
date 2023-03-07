@@ -1,0 +1,7 @@
+Recipe_EN = {
+    Recipe_SpiffoPlushieDeliveryOpen = "Open",
+    Recipe_SpiffoPlushieAddBackpack = "Attach backpack",
+    Recipe_SpiffoPlushieRemoveBackpack = "Remove backpack",
+    Recipe_SpiffoPlushieAddBackpackBig = "Attach backpack",
+    Recipe_SpiffoPlushieRemoveBackpackBig = "Remove backpack",
+}

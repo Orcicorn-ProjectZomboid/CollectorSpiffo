@@ -1,0 +1,4 @@
+Tooltip_EN = {
+    Tooltip_SpiffoPlushieMakeship = "Limited Edition (Only 5073 Made)",
+    Tooltip_SpiffoPlushieDelivery = "Genuine Makeship.com Plushie",
+}
