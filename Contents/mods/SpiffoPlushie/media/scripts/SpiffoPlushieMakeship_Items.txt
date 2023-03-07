@@ -90,5 +90,6 @@ module Base {
         StaticModel = BigSpiffoPlushieMakeshipWithBag,
 		WorldStaticModel = BigSpiffoPlushieMakeshipWithBag,
         Tooltip = Tooltip_SpiffoPlushieMakeship,
+        AttachmentType = SpiffoPlushie,
 	}
 }
