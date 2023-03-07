@@ -1,13 +1,13 @@
 version=1
 id=2943644347
-title=Spiffo Collector Plushie
+title=Unofficial Spiffo Collector Plushie
 description=Are you struggling with suriving the zombie apocalypse? Do you need a companion by your side that can provide helpful tips, looks or encouragement or even a well needed hug before you meet your inevitable demise? Look no further: The Collector Spiffo Plushie is here!
 description=
 description=No longer must we suffer through an unrealistic Spiffo knock-off that's too chubby, too fluffy, and all around just not top heavy enough.   The new and improved COLLECTOR PLUSHIE is the ultimate companion for survivors of all skillsets.  He sits, he stares,  he judges and best of all, he has a backpack.  And before you ask, yes it absolutely comes off.
 description=
 description=Collector Spiffo can be found in the usual places where all traditional Spiffo plushies are found.  However if you want the full experience you will want to keep an eye on your neighbors mailboxes to find a pristine unopened Makeship plushie bag.  Once opened you'll find yourself a brand new Collector Spiffo WITH his rare backpack and nail bat.
 description=
-description=Huge shout out to The Indie Stone and Makeship for creating this [url=https://www.makeship.com/products/spiffo-plush]adorable real-world plushie[/url].  We are not at all affiliated with them nor did they have any hand in the making of this mod. If things go wrong, it's 100% on us.  [url=https://twitch.tv/royalewithcheesetv]RoyaleWithCheese[/url] had the idea, DarkMoriarti created the models & textures while Orcicorn incorporated it all into the game world. 
+description=Huge shout out to The Indie Stone and Makeship for creating this [url=https://www.makeship.com/products/spiffo-plush]adorable real-world plushie[/url].  We are not at all affiliated with them nor did they have any hand in the making of this mod. If things go wrong, it's 100% on us.  [url=https://twitch.tv/royalewithcheesetv]RoyaleWithCheese[/url] had the idea, DarkMoriarti created the models & textures while Orcicorn incorporated it all into the game world.
 description=
 description=[quote]
 description=Unofficial Spiffo Collector Plushie is Open-Source and published on [url=https://github.com/Orcicorn-ProjectZomboid/CollectorSpiffo]Github[/url].
@@ -18,4 +18,4 @@ description=
 description=[img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/like_favorite.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/kofi.png[/img][/url]
 description=[/quote]
 tags=Build 41;Items;Misc;Models;Multiplayer;Pop Culture;Silly/Fun
-visibility=unlisted
+visibility=public
